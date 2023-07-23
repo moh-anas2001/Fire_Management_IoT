@@ -8,3 +8,4 @@ Industry-specific intelligent fire management system
 3. Ajith P - Team Member 3
 4. Aaljin Daniel R P - Team Member 4
 
+### Initiated by ICT Academy and IBM
